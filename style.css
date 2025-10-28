@@ -1,3 +1,15 @@
+:root {
+  --clr-white: hsl(0, 0%, 100%);
+  --clr-black: hsl(0, 0%, 0%);
+  --clr-gray-600: hsl(224, 23%, 55%);
+  --clr-purple-500: hsl(245, 83%, 68%);
+  --clr-blue-950: hsl(223, 47%, 23%);
+  --clr-blue-700: hsl(245, 75%, 52%);
+  --clr-blue-150: hsl(224, 100%, 92%);
+  --clr-blue-100: hsl(225, 100%, 94%);
+  --clr-blue-50: hsl(225, 100%, 98%);
+}
+
 /* 1. Use a more-intuitive box-sizing model */
 *, *::before, *::after {
   box-sizing: border-box;
