@@ -56,6 +56,13 @@ body {
   line-height: 1.5;
   /* 5. Improve text rendering */
   -webkit-font-smoothing: antialiased;
+  height: 100vh;
+  display: grid;
+  place-content: center;
+  background-image: url(images/pattern-background-mobile.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: var(--clr-blue-100);
 }
 
 /* 6. Improve media defaults */
