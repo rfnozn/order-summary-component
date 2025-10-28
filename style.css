@@ -265,6 +265,7 @@ a {
 .card__button:hover,
 .card__button:focus {
   background-color: var(--clr-purple-500);
+  box-shadow: 0 10px 20px 0 hsla(245, 75%, 52%, 19.03%);
 }
 
 .card__link {
